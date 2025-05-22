@@ -1,7 +1,10 @@
-# Resilient_Predictive_Maintenance
-Official repository of the paper "Toward Resilient Predictive Maintenance" presented at BOSON workshop for AINA 2025 conference
+
 
 # Toward Resilient Predictive Maintenance in Complex Industrial Processes
+
+Official repository of the paper "Toward Resilient Predictive Maintenance" presented at BOSON workshop for AINA 2025 conference 
+![image](https://github.com/user-attachments/assets/62b3f5e1-0dda-4be6-be5f-727a898a1681)
+
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--87781--0__2-blue)](https://doi.org/10.1007/978-3-031-87781-0_2)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
