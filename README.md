@@ -42,10 +42,6 @@ This repository presents the official implementation of a Resilient Predictive M
 - NumPy, Pandas, Scikit-learn
 - Matplotlib, Seaborn
 
-To install the dependencies:
-
-```bash
-pip install -r requirements.txt
 
 
 Dataset: N-CMAPSS
@@ -77,7 +73,7 @@ Robust detection of drift and operational anomalies
 
 Citation
 If you find this repository useful in your research, please cite:
-
+```
 bibtex
 Copia
 Modifica
@@ -91,6 +87,7 @@ Modifica
   publisher={Springer},
   doi={10.1007/978-3-031-87781-0_2}
 }
+```
 License
 This code is licensed under the MIT License. See the LICENSE file for full details.
 
