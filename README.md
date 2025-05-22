@@ -65,18 +65,21 @@ You can explore and execute the full pipeline via Google Colab:
 
 
 Results
-Model	MSE	MAE	RMSE	R²	S-score
-BiLSTM	348.9	13.9	18.7	0.83	99,164
-LSTM	393.2	15.4	19.8	0.81	116,150
-GRU + Attn	412.8	15.3	20.3	0.80	108,551
-TCN	380.8	14.4	19.5	0.81	136,669
+| Model       | MSE   | MAE  | RMSE | R²   | S-score  |
+|-------------|-------|------|------|------|----------|
+| BiLSTM      | 348.9 | 13.9 | 18.7 | 0.83 | 99,164   |
+| LSTM        | 393.2 | 15.4 | 19.8 | 0.81 | 116,150  |
+| GRU + Attn  | 412.8 | 15.3 | 20.3 | 0.80 | 108,551  |
+| TCN         | 380.8 | 14.4 | 19.5 | 0.81 | 136,669  |
+
 
 Highlights:
 
-+3% improvement in R²
+**+3% improvement in R²**
 
--17.5% reduction in S-score (early failure penalty)
+**-17.5% reduction in S-score (early failure penalty)**
 
+Conclusion:
 Robust detection of drift and operational anomalies
 
 Citation
