@@ -41,6 +41,8 @@ This repository presents the official implementation of a Resilient Predictive M
 
 ## Getting Started
 
+![image](https://github.com/user-attachments/assets/1c8b5cc9-08a7-4ca0-81ab-fcff7def3939)
+
 ### Requirements
 
 - Python ≥ 3.8
