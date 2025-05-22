@@ -74,9 +74,6 @@ Robust detection of drift and operational anomalies
 Citation
 If you find this repository useful in your research, please cite:
 ```
-bibtex
-Copia
-Modifica
 @inproceedings{moccardi2025resilient,
   title={Toward Resilient Predictive Maintenance in Complex Industrial Processes},
   author={Moccardi, Alberto and Cirillo, Egidia and Del Prete, Alessandro and Mashaallah, Zahida},
