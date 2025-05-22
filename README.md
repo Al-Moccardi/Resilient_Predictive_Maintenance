@@ -2,9 +2,13 @@
 Official repository of the paper "Toward Resilient Predictive Maintenance" presented at BOSON workshop for AINA 2025 conference
 
 # Toward Resilient Predictive Maintenance in Complex Industrial Processes
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--87781--0__2-blue)](https://doi.org/10.1007/978-3-031-87781-0_2)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/framework-TensorFlow-orange.svg)](https://www.tensorflow.org/)
+[![scikit-learn](https://img.shields.io/badge/library-scikit--learn-blue)](https://scikit-learn.org/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LmY0QvsebPMth4cCeg-pn6Pk_Tob4UfK?usp=sharing)
 
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--87781--0__2-blue)](https://doi.org/10.1007/978-3-031-87781-0_2)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1n87xl6J7QOSoFc-cXJKB0uaFy60m5n8w?usp=drive_link](https://colab.research.google.com/drive/1LmY0QvsebPMth4cCeg-pn6Pk_Tob4UfK?usp=sharing))
 This repository accompanies the following publication:
 
 > **Moccardi, A., Cirillo, E., Del Prete, A., Mashaallah, Z. (2025)**  
