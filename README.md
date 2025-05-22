@@ -4,8 +4,7 @@ Official repository of the paper "Toward Resilient Predictive Maintenance" prese
 # Toward Resilient Predictive Maintenance in Complex Industrial Processes
 
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--031--87781--0__2-blue)](https://doi.org/10.1007/978-3-031-87781-0_2)  
-[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LmY0QvsebPMth4cCeg-pn6Pk_Tob4UfK7](https://colab.research.google.com/drive/1LmY0QvsebPMth4cCeg-pn6Pk_Tob4UfK?usp=sharing))
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1n87xl6J7QOSoFc-cXJKB0uaFy60m5n8w?usp=drive_link](https://colab.research.google.com/drive/1LmY0QvsebPMth4cCeg-pn6Pk_Tob4UfK?usp=sharing))
 This repository accompanies the following publication:
 
 > **Moccardi, A., Cirillo, E., Del Prete, A., Mashaallah, Z. (2025)**  
